@@ -31,6 +31,8 @@ public class CustomerDiscount {
         System.out.println("Enter Subtotal: ");    
 
         subTotal = scanSubTotal.nextDouble();
+                System.out.println("Entered from Github: ");    
+
         
        
         if (custmertype.equals("R"))                
